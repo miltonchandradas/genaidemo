@@ -27,6 +27,7 @@ share/python-wheels/
 MANIFEST
 secret_key.py
 myenv/
+hana_keys.json
 
 
 # PyInstaller
